@@ -1,6 +1,6 @@
 # daily_expenses_tracker
 
-A new Flutter application.
+# This repo haven't commited wih full code yet. I'm trying to commit code daily. 
 
 ## Getting Started
 
